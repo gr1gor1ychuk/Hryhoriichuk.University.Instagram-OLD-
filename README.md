@@ -4,26 +4,25 @@ Example
 This is an example project for the university students, a good start for a great project or just to test something.
 
 https://exampleproject.azurewebsites.net
-
-Author
+## Author
 Denys Hryhoriichuk
 
 grigorijchuk.den@gmail.com
 
 https://t.me/@grigoriychuk
 
-Getting Started
+## Getting Started
 Add your getting started here.
 
-Project Documentation
+## Project Documentation
 Add your project documentation here.
 
-Project Task Decomposition
+## Project Task Decomposition
 Add your task decomposition here.
 
-Week 1:
-Implement feature: User Registration ✔️
-Set up Azure SQL Database
-Configure OAuth 2.0 with Google for user authentication ✔️
-Create basic project structure ✔️
-Set up Continuous Integration/Continuous Delivery pipeline
+### Week 1:
+- Implement feature: User Registration ✔️
+- Set up Azure SQL Database 
+- Configure OAuth 2.0 with Google for user authentication ✔️
+- Create basic project structure ✔️
+- Set up Continuous Integration/Continuous Delivery pipeline ✔️
